@@ -250,7 +250,7 @@ In learning skill you not have to be pro instead you can start with the basic kn
 
   
 
-### [MLH FELLOWSH](https://fellowship.mlh.io/)
+### [MLH FELLOWSHIP](https://fellowship.mlh.io/)
 
   
 
