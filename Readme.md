@@ -156,7 +156,7 @@ In learning skill you not have to be pro instead you can start with the basic kn
 
   
 
-![Untitled](OPEN%20SOURCE%20CONTRIBUTION%20dcc5a871f4ef4f7797182a5fa240db27/Untitled.png)
+![Untitled](https://github.com/anupamishra333/Open-Source/blob/main/OPEN%20SOURCE%20CONTRIBUTION/Untitled%200.png)
 
   
 
@@ -174,21 +174,21 @@ In learning skill you not have to be pro instead you can start with the basic kn
 
   
 
-![Untitled](OPEN%20SOURCE%20CONTRIBUTION%20dcc5a871f4ef4f7797182a5fa240db27/Untitled%202.png)
+![Untitled](https://github.com/anupamishra333/Open-Source/blob/main/OPEN%20SOURCE%20CONTRIBUTION/Untitled%202.png)
 
   
 
-![Untitled](OPEN%20SOURCE%20CONTRIBUTION%20dcc5a871f4ef4f7797182a5fa240db27/Untitled%203.png)
+![Untitled](https://github.com/anupamishra333/Open-Source/blob/main/OPEN%20SOURCE%20CONTRIBUTION/Untitled%203.png)
 
   
 
 - Now then you will see that the new folder is created and in that all the files are located .
 
-![Untitled](OPEN%20SOURCE%20CONTRIBUTION%20dcc5a871f4ef4f7797182a5fa240db27/Untitled%204.png)
+![Untitled](https://github.com/anupamishra333/Open-Source/blob/main/OPEN%20SOURCE%20CONTRIBUTION/Untitled%204.png)
 
   
 
-![Untitled](OPEN%20SOURCE%20CONTRIBUTION%20dcc5a871f4ef4f7797182a5fa240db27/Untitled%205.png)
+![Untitled](https://github.com/anupamishra333/Open-Source/blob/main/OPEN%20SOURCE%20CONTRIBUTION/Untitled%205.png)
 
   
 
@@ -196,7 +196,7 @@ In learning skill you not have to be pro instead you can start with the basic kn
 
   
 
-![Untitled](OPEN%20SOURCE%20CONTRIBUTION%20dcc5a871f4ef4f7797182a5fa240db27/Untitled%206.png)
+![Untitled](https://github.com/anupamishra333/Open-Source/blob/main/OPEN%20SOURCE%20CONTRIBUTION/Untitled%206.png)
 
   
 
@@ -212,19 +212,19 @@ In learning skill you not have to be pro instead you can start with the basic kn
 
   
 
-![Untitled](OPEN%20SOURCE%20CONTRIBUTION%20dcc5a871f4ef4f7797182a5fa240db27/Untitled%207.png)
+![Untitled](https://github.com/anupamishra333/Open-Source/blob/main/OPEN%20SOURCE%20CONTRIBUTION/Untitled%207.png)
 
   
 
 - Then after pushing the code in the branch orign we will create an pull request .
 
-![Untitled](OPEN%20SOURCE%20CONTRIBUTION%20dcc5a871f4ef4f7797182a5fa240db27/Untitled%208.png)
+![Untitled](https://github.com/anupamishra333/Open-Source/blob/main/OPEN%20SOURCE%20CONTRIBUTION/Untitled%208.png)
 
 - After this your pull request will become open and in the end the other maintainers will check the pull request and if your pull request is genuine then they will merge this into their master branch .
 
   
 
-![Untitled](OPEN%20SOURCE%20CONTRIBUTION%20dcc5a871f4ef4f7797182a5fa240db27/Untitled%209.png)
+![Untitled](https://github.com/anupamishra333/Open-Source/blob/main/OPEN%20SOURCE%20CONTRIBUTION/Untitled%209.png)
 
   
 
